@@ -13,7 +13,7 @@ body{
     display: flex;
     margin: auto;
     padding: 43px;
-    padding-left: 53px;
+    padding-left: 36px;
 }
 .top-nav a{
     color: ivory;
@@ -24,4 +24,32 @@ body{
 }
 .font-a{
     font-size: 1.8em;
+}
+.blog-area{
+    padding-top: 22px;
+    display: flex;
+}
+.blog-img{
+    height: 100%;
+    width: 100%;
+}
+
+.blog-text{
+    padding-top: 63px;
+    margin-left: 85px;
+    margin-right: 49px;
+}
+
+.blog-button button{
+    width: 180px;
+    height: 55px;
+    float: left;
+    background: #000;
+    text-align: center;
+    line-height: 55px;
+    color: #fff;
+    margin-left: 96px;
+    margin-top: 27px;
+    font-weight: 300;
+    
 }
