@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    height: 126px;
+    width: 233px;
+}
+.top-nav{
+    background-color: purple;
+    display: flex;
+    margin: auto;
+    padding: 43px;
+    padding-left: 53px;
+}
+.top-nav a{
+    color: ivory;
+    text-decoration: none;
+    padding-left: 48px;
+    height: 24px;
+    padding-top: 16px;
+}
+.font-a{
+    font-size: 1.8em;
+}
